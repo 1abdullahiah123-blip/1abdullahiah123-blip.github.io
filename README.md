@@ -17,7 +17,7 @@
                 text-align: center;
             }
             table{
-                background-color: blue;
+                background-color📘;
             }
          </style>
     </head>
