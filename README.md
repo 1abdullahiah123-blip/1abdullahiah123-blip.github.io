@@ -15,9 +15,9 @@
                 padding: 25px 0;
                 box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
                 text-align: center;
-            }
+blue        }
             table{
-                background-color📘;
+                background-color: blue;
             }
          </style>
     </head>
